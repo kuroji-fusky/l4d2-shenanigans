@@ -1,0 +1,12 @@
+"pacifist_worl"
+{
+	"base"	"coop"
+
+	"maxplayers"	"4"
+
+	"Image"	"maps/any"
+	"Author"	"Kuro"
+
+	"DisplayTitle"	"Pacifist Worl"
+	"Description"	"Just don't shoot the zombies lol"
+}
